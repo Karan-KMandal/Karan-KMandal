@@ -1,10 +1,10 @@
 ![logo](https://github.com/Karan-KMandal/Karan-KMandal/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Karan Mandal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate computer science student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Basics**
 
 - 📫 How to reach me **mandalkaran390@gmail.com**
 
